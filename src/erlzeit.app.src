@@ -1,5 +1,5 @@
 {application, erlzeit, [
-    {description, "An OTP library"},
+    {description, "A time handling library"},
     {vsn, "0.1.0"},
     {registered, []},
     {applications, [
@@ -8,6 +8,6 @@
     ]},
     {env, []},
     {modules, []},
-    {licenses, ["Apache-2.0"]},
+    {licenses, ["MIT"]},
     {links, []}
 ]}.
