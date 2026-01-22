@@ -1,5 +1,7 @@
 # erlzeit
 
+NOTE: Archived. This was just an experiment
+
 An Erlang library for timezone-aware timestamps with arithmetics and conversion capabilities.
 
 * Note1: Quality of code: Hacky hack (1-2 days work, and my first Erlang project). 
